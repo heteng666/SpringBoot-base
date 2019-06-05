@@ -62,7 +62,7 @@
 		<dependency>
 			<groupId>org.mybatis.spring.boot</groupId>
 			<artifactId>mybatis-spring-boot-starter</artifactId>
-			<version>1.0.0</version>
+			<version>1.2.0</version>
 		</dependency>
 		<!--添加druid依赖 -->
 		<dependency>
@@ -82,7 +82,7 @@
 		</dependency>
 	</dependencies>
 
-	<build>
+	<build>  
 		<plugins>
 			<plugin>
 				<groupId>org.springframework.boot</groupId>
